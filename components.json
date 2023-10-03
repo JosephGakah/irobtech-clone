@@ -1,0 +1,14 @@
+{
+    "tailwind": {
+      "config": "tailwind.config.js",
+      "css": "app/globals.css",
+      "baseColor": "slate",
+      "cssVariables": true
+    },
+    "aliases": {
+      "components": "@/components",
+      "configs": "@/configs",
+      "utils": "@/lib/utils",
+      "types": "@/lib/types"
+    }
+  }
