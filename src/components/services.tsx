@@ -8,7 +8,7 @@ export const Services = () => {
     <section>
         <div className='p-8 flex justify-center text-center'>
             <div>
-                <h2 className='text-[#acb1ea4f] text-[94px] z-0 relative'>What We Do</h2>
+                <h2 className='text-[#acb1ea4f] text-[94px] z-0 absolute text-center'>What We Do</h2>
                 <h2 className='text-white text-[56px]'>Our Services</h2>
                 <div className=' mx-[20%]'>
                     <h2 className='text-white text-[22px]'>
