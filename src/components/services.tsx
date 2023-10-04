@@ -7,8 +7,10 @@ export const Services = () => {
   return (
     <section>
         <div className='p-8 text-center'>
-            <div className='relative'>
-                <h2 className='text-[#acb1ea4f] text-[94px] z-0 absolute text-center left-[25%] right-[25%]'>What We Do</h2>
+            <div className=''>
+                <div className='absolute left-[50%] z-0'>
+                <h2 className='text-[#acb1ea4f] text-[94px] relative left-[-50%]'>What We Do</h2>
+                </div>
                 <h2 className='text-white text-[56px] pt-[5%]'>Our Services</h2>
                 <div className=' mx-[20%]'>
                     <h2 className='text-white text-[22px]'>

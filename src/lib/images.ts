@@ -6,4 +6,5 @@ export const Images = {
     mob: 'https://irobtechnologies.com/irob-tech/uploads/2020/08/Group-37159.svg',
     uiux: 'https://irobtechnologies.com/irob-tech/uploads/2020/08/Group-37160.svg',
     cloudsol: 'https://irobtechnologies.com/irob-tech/uploads/2020/08/Group-37165.svg',
+    clockSvg: '/clock.svg'
 }
