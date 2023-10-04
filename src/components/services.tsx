@@ -5,7 +5,7 @@ import React from 'react'
 export const Services = () => {
     const images = Images
   return (
-    <section className='bg-[#060a23]'>
+    <section>
         <div className='p-8 flex justify-center text-center'>
             <div>
                 <h2 className='text-[#acb1ea4f] text-[94px] z-0 relative'>What We Do</h2>
@@ -18,10 +18,10 @@ export const Services = () => {
             </div>
             <div></div>
         </div>
-        <div className='px-[50px] flex flex-col text-center'>
+        <div className='px-[15%] py-[5%] flex flex-col text-center'>
             <div><h2 className='text-[#acb1ea4f] text-[65px] z-0 relative'>Tech</h2></div>
             <div className='grid grid-cols-2 gap-[25px]'>
-                <div className='col bg-gradient-to-b to-[#0c1033] from-[#2824d5c0] hover:transform scale-105 shadow-[15px, 15px, 36px, 24px] shadow-[#00000038] text-left rounded-[1rem]'>
+                <div className='flex flex-col items-left bg-gradient-to-b to-[#0c1033] from-[#2824d5c0] hover:transform scale-105 shadow-[15px, 15px, 36px, 24px] shadow-[#00000038] text-left rounded-[1rem]'>
                     <div className='py-[30px] px-[50px]'>
                         <Image src={images.digcol} alt='' height={150} width={150} className='h-[275px] w-[75%]'/>
                         <h3 className='text-white text-[36px] mb-[15px]'>
