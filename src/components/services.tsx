@@ -6,10 +6,10 @@ export const Services = () => {
     const images = Images
   return (
     <section>
-        <div className='p-8 flex justify-center text-center'>
-            <div>
-                <h2 className='text-[#acb1ea4f] text-[94px] z-0 absolute text-center'>What We Do</h2>
-                <h2 className='text-white text-[56px]'>Our Services</h2>
+        <div className='p-8 text-center'>
+            <div className='relative'>
+                <h2 className='text-[#acb1ea4f] text-[94px] z-0 absolute text-center left-[25%] right-[25%]'>What We Do</h2>
+                <h2 className='text-white text-[56px] pt-[5%]'>Our Services</h2>
                 <div className=' mx-[20%]'>
                     <h2 className='text-white text-[22px]'>
                         We work with organizations, businesses, and individuals from various sectors, helping them create and launch products that are utilised by customers across the globe.
