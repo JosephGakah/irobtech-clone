@@ -8,5 +8,8 @@ export const Images = {
     cloudsol: 'https://irobtechnologies.com/irob-tech/uploads/2020/08/Group-37165.svg',
     clockSvg: '/clock.svg',
     rotate: '/rotate.svg',
-    timeline: '/timeline.svg'
+    timeline: '/timeline.svg',
+    lineA: '/line.svg',
+    lineB: '/lineB.svg',
+    lineC: '/lineC.svg'
 }
