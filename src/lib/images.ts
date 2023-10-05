@@ -11,5 +11,15 @@ export const Images = {
     timeline: '/timeline.svg',
     lineA: '/line.svg',
     lineB: '/lineB.svg',
-    lineC: '/lineC.svg'
+    lineC: '/lineC.svg',
+
+    //Team Members Images
+    handarob: 'https://irobtechnologies.com/team/robin.jpeg',
+    kenkor: 'https://irobtechnologies.com/team/kenna.png',
+    ouksher: 'https://irobtechnologies.com/team/IMG-1111.jpg',
+    cyprnab: 'https://irobtechnologies.com/team/cypn1-scaled.jpg',
+    jeffoti: 'https://irobtechnologies.com/team/jeff.png',
+    neljr: 'https://irobtechnologies.com/team/nelf.jpeg',
+    bryochola: 'https://irobtechnologies.com/team/bry.jpeg',
+
 }
