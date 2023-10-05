@@ -1,4 +1,3 @@
-import Image from 'next/image'
 import React from 'react'
 import TeamMember from './components/team'
 import { Team } from '@/lib/team'
