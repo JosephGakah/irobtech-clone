@@ -5,7 +5,7 @@ import { Team } from '@/lib/team'
 
 export default function OurTeam(){
   const members = [
-    Team.bryochola, Team.cyprnab, Team.handarob, Team.jeffoti, Team.kenkor, Team.ouksher, Team.neljr
+    Team.handarob, Team.kenkor, Team.ouksher, Team.cyprnab, Team.jeffoti, Team.neljr, Team.bryochola, 
   ]
 
   return (
