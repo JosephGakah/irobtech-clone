@@ -17,9 +17,9 @@ export default function TeamMember(
                 src={props.imgsrc} alt={props.name} width={342} height={342}
                 className=' rounded-[50%] w-[342px] h-[342px]'
             />
-            <h2 className='text-[1.5rem] font-bold'>{props.name}</h2>
-            <p className='mb-[0.9rem] text-[1rem]'>{props.role}</p>
-            <p className='mb-[0.9rem] text-[1rem]'>{props.description}</p>
+            <h2 className='text-[1.5rem] font-bold mb-[0.9rem] mt-2'>{props.name}</h2>
+            <p className='mb-[0.9rem] text-[1rem] mt-2'>{props.role}</p>
+            <p className='mb-[0.9rem] text-[1rem] mt-2'>{props.description}</p>
         </div>
     )
 }
